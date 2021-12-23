@@ -344,3 +344,20 @@ font-size: 0px 22px;
         width: 80px;
         transition: 1s;
    }
+
+
+   .contact-bar .fas:hover{
+
+    padding-left: 30px;
+    width: 80px;
+    transition: 1s;
+}
+
+
+.contact-bar .fab:hover {
+    padding-left: 30px;
+    width: 80px;
+
+    font-size: 45px;
+    transition: 1s;
+}
