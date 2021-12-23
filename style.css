@@ -61,17 +61,24 @@ body{
 }
 
 
-/* -------- About  ------------- */
+/* -------- About  -------------
 
 .about{
     padding-top: 50px;
-    /*padding-bottom: 50px;*/
+    padding-bottom: 50px;
     margin-bottom: -100px;
 
 }
+*/
+
+.about .row{
+    position: relative; 
+    left: 30px; 
+    top: -145px 
+}
 
 .profile-img{
-    height: 100px;
+    height: 0px;
 }
 
 
